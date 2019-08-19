@@ -1,0 +1,2 @@
+# nowplaying
+Spotify Now Playing
